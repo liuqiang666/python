@@ -1,0 +1,4 @@
+GROUP_STRART = 0
+GROUP_END = 20
+
+KEYWORD = '街拍'
